@@ -1,0 +1,17 @@
+{
+  "name": "smiles",
+  "version": "1.0.0",
+  "description": "serverless b/e",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tanishqcic",
+  "license": "ISC",
+  "devDependencies": {
+    "@vercel/node": "^1.12.1"
+  },
+  "dependencies": {
+    "faunadb": "^4.4.1"
+  }
+}

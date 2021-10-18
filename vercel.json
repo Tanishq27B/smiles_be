@@ -1,0 +1,17 @@
+{
+    "routes": [
+        {
+            "src": "/",
+            "dest": "api/main.js"
+        },
+        {
+            "src": "/main/",
+            "methods": [
+                "POST",
+                "GET"
+            ],
+            "dest": "api/main.js"
+        }
+
+    ]
+}
